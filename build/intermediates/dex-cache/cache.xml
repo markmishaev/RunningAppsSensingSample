@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\wxc647\AndroidStudioProjects\RunningAppsSensingSample\app\libs\intel-context-sensing-1.6.7.232.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="286347e1c04a5e3c9e7ceab66fdabf35b15e021a">
+        <dex dex="C:\Users\wxc647\AndroidStudioProjects\RunningAppsSensingSample\app\build\intermediates\pre-dexed\debug\intel-context-sensing-1.6.7.232-26516c54f73712ce4960409a9faa2a50188ac19a.jar" />
+    </item>
+
+</items>

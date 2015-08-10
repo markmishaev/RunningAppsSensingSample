@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intel-context-sensing-1.6.7.232">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/libs/intel-context-sensing-1.6.7.232.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
